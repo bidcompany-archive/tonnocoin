@@ -20,7 +20,7 @@
     "@angular/router": "~12.2.0",
     "elliptic": "^6.5.4",
     "rxjs": "~6.6.0",
-    "tonno-core": "file:tonno-core",
+    "tonno-core": "github:bidcompany/tonno-core",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
