@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Blockchain } from 'tonnocoin-prototype/src/blockchain';
+import { Blockchain } from 'tonno-core/src/blockchain';
 import EC from 'elliptic';
 
 @Injectable({

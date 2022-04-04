@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { BlockchainService } from 'src/app/services/blockchain.service';
-import { Transaction } from 'tonnocoin-prototype/src/blockchain';
+import { Transaction } from 'tonno-core/src/blockchain';
 
 @Component({
   selector: 'app-create-transaction',
